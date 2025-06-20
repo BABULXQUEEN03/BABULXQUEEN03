@@ -1,50 +1,52 @@
-<h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">Telegram Bot Developer | Python Coder | H4ck Enthusiast</h3>
+<h1 align="center">✦ 𝙱𝙰𝙱𝚄𝙻𝚇𝚀𝚄𝙴𝙴𝙽 ✦</h1>
+<h3 align="center">Telegram Bot Wizard ⚙️ | Ethical Hacker 👾 | Automation King 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=I+Build+Advanced+Telegram+Bots;Python+%7C+MongoDB+%7C+Heroku+Expert;I+Love+Automating+Things+%F0%9F%94%A5;Learning+New+Things+Everyday+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=I+build+intelligent+Telegram+Bots;Hack+with+Purpose+%F0%9F%94%AB;Automation+is+my+playground;Active+on+Telegram+24x7" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About Me
+### 🔥 WHO IS BABULXQUEEN?
+---
 
-- 🔭 I’m currently working on **Telegram bots with MongoDB, Pyrogram & AI**
-- 🌱 Learning **Advanced Python & Cybersecurity**
-- 🧠 Passionate about **Automation, Security tools & Bot Networking**
-- ⚡ Fun fact: I can deploy a bot blindfolded 😎
+### ⚔️ SKILLSET
+
+- 💬 Telegram Bots: `Pyrogram`, `Telethon`, `AI`, `AutoReply`, `MassRaiders`
+- 🧠 Languages: `Python`, `JavaScript`, `HTML`, `Bash`
+- 💽 DB & Storage: `MongoDB`, `SQLite`, `Cloud DBs`
+- ⚙️ Tools: `Termux`, `Linux`, `GitHub`, `Heroku`, `Render`, `VPS`
+- 🔐 Side Hustle: `Payload testing`, `Hacking bots`, `Anonymity tools`
 
 ---
 
-### 🛠 Tech Stack
+### 👁️‍🗨️ LIVE PROJECTS
 
-- 👨‍💻 Languages: `Python`, `JavaScript`, `Bash`
-- 🤖 Telegram Bots: `Pyrogram`, `Telethon`, `AI Integration`
-- 🛢️ Databases: `MongoDB`, `Firebase`
-- ☁️ Deployment: `Heroku`, `Render`, `VPS`
-- 🔧 Tools: `Git`, `GitHub`, `Termux`, `Linux`, `NGROK`
+> 🧠 **Autobot-X** – A multipurpose Telegram bot with raid, spam, ban & ghosting features  
+> 🔒 **XFilter** – AI-based auto-moderation system  
+> 🎯 **MassReport V3** – Targeted reporting bot (Educational Use)  
+> 💬 More bots & tools only on [Telegram Channel](https://t.me/BABUL_ON_FIRE)
 
 ---
 
-### 📈 GitHub Stats
+### 🧑‍💻 CONNECT WITH ME
+
+- 📬 Telegram: [@mr_babul0](https://t.me/mr_babul0)
+- 🔗 Channel: [t.me/BABUL_ON_FIRE](https://t.me/BABUL_ON_FIRE)
+- 🧪 GitHub: [github.com/Babulxqueen](https://github.com/Babulxqueen)
+
+---
+
+### 💣 SIGNATURE QUOTE
+
+> **“Silence is my weapon. Code is my voice.”**  
+> — 𝑩𝑨𝑩𝑼𝑳𝑿𝑸𝑼𝑬𝑬𝑵 ☠️
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asifxqueen&show_icons=true&theme=radical" alt="asif stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asifxqueen&theme=radical" alt="asif streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Babulxqueen&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Babulxqueen&theme=radical" width="48%" />
 </p>
-
----
-
-### 🧑‍💻 Let's Connect
-
-- 📬 Telegram: [@ashlf903](https://t.me/ashlf903)
-- 🔗 GitHub: [https://github.com/ASIFXQUEEN/ASIFXQUEEN)
-
----
-
-### 👣 Quote
-
-> “Code like a ninja, deploy like a ghost. 🥷”  
-> — _Asif (aka xqueen)_
 
 ---
